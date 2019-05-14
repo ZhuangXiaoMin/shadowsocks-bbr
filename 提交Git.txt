@@ -1,0 +1,6 @@
+git add ¡°ÎÄ¼ş¡±
+git status 
+
+git commit -m ' ×¢ÊÍ'
+git push
+
