@@ -7,6 +7,9 @@
 2.Shadowsokcs安装 wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks.sh && chmod +x shadowsocks.sh
 
 启动：/etc/init.d/shadowsocks start
+
 停止：/etc/init.d/shadowsocks stop
+
 重启：/etc/init.d/shadowsocks restart
+
 状态：/etc/init.d/shadowsocks status
